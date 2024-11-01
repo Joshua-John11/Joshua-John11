@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on Web Development and Design...
 - 📫 How to reach me ...
 
+- <a href="https://app.daily.dev/joshuajohn"><img src="https://api.daily.dev/devcards/v2/oK4Qp3dHfhmUSLOu6a1W1.png?type=default&r=es7" width="356" alt="Joshua Baridakara John's Dev Card"/></a>
+
 <!---
 Joshua-John11/Joshua-John11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
